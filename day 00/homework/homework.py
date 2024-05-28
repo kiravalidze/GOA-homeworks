@@ -6,9 +6,9 @@ surname = "kirvalidze"
 print(name) 
 #STR (STRING) TIPIS CVLADI
 age = 14 
-INT (INTEGER) MTELI RICXVI
+INT (INTEGER) #MTELI RICXVI
 height =175.7 
-FLOOT TIPIS CVLADI ATWILADI
+#FLOOT TIPIS CVLADI ATWILADI
 #BOOLEAN (BOOL) TIPIS 
 knows_programming = True 
 is_ugly = False 
