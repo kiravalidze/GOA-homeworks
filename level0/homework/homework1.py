@@ -1,10 +1,10 @@
 from turtle import *
-speed(5)
+speed(3)
 
 #we want to paint a house
 
 #steo 1 draw a square
-color("dark red")
+color("green")
 width(7)
 forward(200)
 left(90)
